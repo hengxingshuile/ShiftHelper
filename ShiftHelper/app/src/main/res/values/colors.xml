@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="safari_blue">#FF007AFF</color>
+    <color name="safari_green">#FF34C759</color>
+    <color name="safari_orange">#FFFF9500</color>
+    <color name="safari_purple">#FF5856D6</color>
+    <color name="safari_red">#FFFF3B30</color>
+    <color name="safari_gray">#FF8E8E93</color>
+</resources>

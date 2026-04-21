@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/widget_background">
+
+    <TextView
+        android:id="@+id/widget_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="04月21日 星期二"
+        android:textColor="@android:color/white"
+        android:textSize="13sp"
+        android:alpha="0.7" />
+
+    <TextView
+        android:id="@+id/widget_team"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="三值"
+        android:textColor="@android:color/white"
+        android:textSize="12sp"
+        android:alpha="0.5"
+        android:layout_marginTop="2dp" />
+
+    <TextView
+        android:id="@+id/widget_shift_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="白班"
+        android:textColor="@color/safari_blue"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/widget_tomorrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="明天: 中班"
+        android:textColor="@android:color/white"
+        android:textSize="13sp"
+        android:alpha="0.6"
+        android:layout_marginTop="8dp" />
+
+</LinearLayout>
